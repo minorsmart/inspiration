@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: "home"
+
+website:
+  title: "Inspiration"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Smart Industry
+      - href: digitaltwin.qmd
+        text: Digital Twin
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

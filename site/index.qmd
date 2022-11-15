@@ -1,0 +1,10 @@
+---
+title: "Smart Industry"
+---
+
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rt65167tZlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+Manufacturing innovation trends - how manufacturing is changing - Future of Manufacturing 4.0 Keynote Speaker. Lessons from Toyota assembly lines for fork lift trucks.  How to optimise factory production with just-in-time and hundreds of small enhancements with huge total impact, using predictive analytics and Big Data.  How to harness human genius in the workforce to make things faster and more reliably.  Key manufacturing trends presented by Futurist keynote speaker Patrick Dixon - tour of Toyota factory site in Mjölby, Sweden.
+<hr>

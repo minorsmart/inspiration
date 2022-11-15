@@ -1,0 +1,11 @@
+---
+title: "Digital Twin"
+---
+
+
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z6-GEzBKVHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+Our DI factories have to serve as role models for excellence in production and logistics to provide proven value add for our customers and our operational company, based on lean engineering, smart Factory Automation and Digital Enterprise Solutions. To stay ahead of our competition, we launched 2016 the Lean Digital Factory approach, a structured and bottom up approach for our factories to met future challenges and to take advantage of new possibilities dueto digitalization. Since then, The Lean Digital Factory Approach has served several Siemens plants to receive multiple awards. In this presentation, I would like to share our experience and demonstrate “How to bring Closed Loop Manufacturing into your organization based on our own experiences”
+<hr>
